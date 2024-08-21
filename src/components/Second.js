@@ -5,6 +5,7 @@ const SecondComponent = () => {
     <div>
       <p>Hello Second World</p>
     </div>
+    
   );
 };
 
