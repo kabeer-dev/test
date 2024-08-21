@@ -1,10 +1,11 @@
 import React from "react";
 
 const FirstComponent = () => {
-    return (
-        <>
-        </>
-    )
-}
+  return (
+    <div>
+      <p>Hello World</p>
+    </div>
+  );
+};
 
-export default FirstComponent
+export default FirstComponent;
