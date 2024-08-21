@@ -4,6 +4,7 @@ const FirstComponent = () => {
   return (
     <div>
       <p>Hello World</p>
+      <p>paragraph</p>
     </div>
   );
 };
