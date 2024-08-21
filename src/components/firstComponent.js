@@ -5,7 +5,6 @@ const FirstComponent = () => {
     <div>
       <p>Hello World</p>
     </div>
-    
   );
 };
 
